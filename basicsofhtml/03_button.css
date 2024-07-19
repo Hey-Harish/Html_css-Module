@@ -1,0 +1,184 @@
+*{
+    background-color: black;
+}
+
+.subscribe-button{
+    background-color: rgba(255, 8, 0, 0.778);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+
+.subscribe-button:hover{
+    opacity: 0.8;
+}
+
+.subscribe-button:active{
+    opacity: 0.4;
+}
+
+.join-button{
+    background-color: white;
+    color:  rgba(0, 123, 255, 0.911);
+    border: 1px solid rgba(0, 123, 255, 0.911);
+    height: 30px;
+    width: 60px;
+    border-style: solid;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 10PX;
+    cursor: pointer;
+    transition: opacity 1s;
+
+}
+
+.join-button:hover{
+    color: white;
+    background-color: rgba(0, 123, 255, 0.911);
+    
+}
+
+.join-button:active{
+    opacity: 0.7;
+    
+}
+
+.twitter-button{
+    background-color: rgb(0, 179, 255);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    font-weight: 500;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: box-shadow 1s;
+    
+
+}
+.twitter-button:hover{
+    box-shadow: 5px 5px 10px  rgb(0, 229, 255) ;
+}
+
+.uber-button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 120px;
+    border: solid;
+    border-width: 7px;
+    border-style:20px;
+    margin-top: 8px;
+}
+
+.uber-button:hover{
+   opacity: 0.5;
+}
+
+.amazon-button{
+    background-color: rgb(255, 234, 0);
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 5px solid white ;
+    margin-top: 10px;
+    
+}
+.amazon-button:hover{
+    background-color: rgb(245,205,3);
+}
+
+
+.github-button{
+    background-color: rgb(53, 128, 0);
+    color: white;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 15px;
+    border: 5px solid white;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+
+.github-button:hover{
+    opacity: 0.7;
+    
+}
+
+
+
+.bootstrap1{
+    background-color: rgb(108, 0, 125);
+    height: 40px;
+    width: 110px;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 6px;
+    margin-top: 5px;
+}
+
+.bootstrap1:hover{
+    opacity: 0.7;
+}
+
+.bootstrap2{
+    background-color: white;
+    color: rgb(108,117,125);
+    border-width: 1px;
+    border-style: solid;
+    border-color:rgb(108,117,125) ;
+    font-weight: bolder;
+    height: 40px;
+    width: 150px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.bootstrap2:hover{
+    color: rgb(108,117,125);
+}
+
+.linkdin1{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius:20px ;
+    margin-top: 5px;
+    height: 40px;
+    width: 250px;
+    font-weight: bolder;
+
+}
+.linkdin1:hover{
+    opacity: 0.7;
+}
+
+.linkdin2{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border: 2px rgb(10, 102, 194);
+    border-radius:20px ;
+    margin-top: 5px;
+    height: 40px;
+    width: 80px;
+    font-weight: bold;
+
+}
+
+.linkdin2:hover{
+    color: white;
+    background-color: rgba(0, 123, 255, 0.911);
+}

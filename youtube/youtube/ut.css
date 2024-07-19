@@ -1,0 +1,73 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}.maindiv1{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+
+}
+.mainimage{
+    width: 400px;
+    display: inline-block;
+    margin-bottom: 0;
+    
+}
+
+.placeholder{
+    font-size: 20px;
+    display: block;
+  
+}
+
+.paragraph1{
+    margin-top: 0;
+    font-weight: bold;
+    
+}
+
+.paragraph2 {
+    display: block;
+    margin-bottom: 0;
+    font-size: 15px;
+    color: rgb(96, 96, 96);
+
+}
+
+.paragraph3{
+    display: block;
+    margin-top: 0;
+    color: rgb(96, 96, 96);
+   
+}
+
+.maindiv2{
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mainimage2{
+    width: 400px;
+    
+}
+
+.primg1{
+    width: 50px;
+    display: inline-block;
+    border-radius: 80px;
+    margin-top: 0;
+}
+
+.primgdiv1{
+    display: inline-block;
+    width: 50px;
+    vertical-align:top;
+
+}
+
+.textdiv1{
+    display: inline-block;
+    width: 200px;
+
+}

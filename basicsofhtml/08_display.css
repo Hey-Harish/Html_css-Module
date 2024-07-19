@@ -1,0 +1,60 @@
+.image1{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
+
+.paragraph1{
+    width: 300px;
+}
+
+.paragraph2, .paragraph3{
+    display: inline-block;
+
+}
+
+.input-name{
+    color: black;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
+
+.input-email{
+    color: black;
+    border: 1px solid black;
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}
+
+.paragraph4{
+    width: 400px;
+    display: inline-block;
+}
+
+.button1, .button1{
+    margin-bottom: 125px;
+
+}
+
+.image2{
+    height: 150px;
+    width: 200px;
+    margin-left: 100px;display: block;
+
+}
+
+.button3{
+    height: 40px;
+    width: 400px;
+    font-size: medium;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px  rgb(104, 106, 106);
+    margin-bottom: 50px;
+    color: grey;
+    padding-right: 150px;
+}

@@ -1,0 +1,27 @@
+.nike{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.dollar{
+    color: rgb(0, 118, 0);
+    font-size: large;
+}
+
+.button1{
+    background-color: rgb(255, 216, 20);
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 25px;
+    margin-left: 5px;
+}
+
+.button2{
+    background-color: rgb(255, 164, 28);
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 25px;
+    margin-left: 5px;
+}

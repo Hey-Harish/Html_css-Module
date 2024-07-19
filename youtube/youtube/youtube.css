@@ -1,0 +1,39 @@
+.img1{
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+    
+}
+
+.paragraph1{
+    width: 300px;
+    margin-bottom: 0;
+}
+
+.paragraph2{
+    display: inline-block;
+    margin-bottom: 0;
+    color: gray;
+
+}
+.paragraph3{
+    color: gray;
+    margin-top: 0;
+
+}
+
+.primg1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.one-div1{
+    display: inline-block;
+
+}
+
+.one-div2{
+    display: inline-block;
+
+}
